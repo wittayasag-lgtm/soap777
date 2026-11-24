@@ -1,0 +1,102 @@
+[
+  {
+    "id": "soap-fresh-30",
+    "name": "สบู่ Fresh เล็ก",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "สบู่กลิ่นสดชื่น ขนาดพกพา 30ml เหมาะกับการใช้ระหว่างวันและการเดินทาง"
+  },
+  {
+    "id": "soap-fresh-100",
+    "name": "สบู่ Fresh ใหญ่",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "สบู่กลิ่นสดชื่น ขนาดใหญ่ 100ml คุ้มค่าสำหรับใช้ประจำทุกวัน"
+  },
+  {
+    "id": "soap-sweet-30",
+    "name": "สบู่ Sweet เล็ก",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "สบู่กลิ่นหวานละมุน ขนาดพกพา 30ml เหมาะกับการใช้ระหว่างวันและการเดินทาง"
+  },
+  {
+    "id": "soap-sweet-100",
+    "name": "สบู่ Sweet ใหญ่",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "สบู่กลิ่นหวานละมุน ขนาดใหญ่ 100ml คุ้มค่าสำหรับใช้ประจำทุกวัน"
+  },
+  {
+    "id": "soap-confident-30",
+    "name": "สบู่ Confident เล็ก",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "สบู่กลิ่นมั่นใจ ขนาดพกพา 30ml เหมาะกับการใช้ระหว่างวันและการเดินทาง"
+  },
+  {
+    "id": "soap-confident-100",
+    "name": "สบู่ Confident ใหญ่",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "สบู่กลิ่นมั่นใจ ขนาดใหญ่ 100ml คุ้มค่าสำหรับใช้ประจำทุกวัน"
+  },
+  {
+    "id": "soap-romance-30",
+    "name": "สบู่ Romance เล็ก",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "สบู่กลิ่นโรแมนติก ขนาดพกพา 30ml เหมาะกับการใช้ระหว่างวันและการเดินทาง"
+  },
+  {
+    "id": "soap-romance-100",
+    "name": "สบู่ Romance ใหญ่",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "สบู่กลิ่นโรแมนติก ขนาดใหญ่ 100ml คุ้มค่าสำหรับใช้ประจำทุกวัน"
+  },
+  {
+    "id": "rollon-fresh",
+    "name": "น้ำหอมทาตัว Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": "",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "น้ำหอมทาตัวแบบโรลออน กลิ่นสดชื่น พกพาง่าย ใช้ได้ทุกเวลา"
+  },
+  {
+    "id": "rollon-sweet",
+    "name": "น้ำหอมทาตัว Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": "",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "น้ำหอมทาตัวแบบโรลออน กลิ่นหวานละมุน พกพาง่าย ใช้ได้ทุกเวลา"
+  }
+]
